@@ -1,0 +1,15 @@
+*.[o]
+*.obj
+*.d
+*.deb
+*.dll
+*.exe
+*.so
+*.a
+*.lib
+*/build/
+*/bin/
+*/debug/
+*/release/
+*/x64/
+*/x86/
